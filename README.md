@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @debdevops
-- 👀 I’m interested in Cloud application developemnt, DevOps
-- 🌱 I’m currently learning Azure, DevOps, C#, Python
-- 💞️ I’m looking to collaborate on development where I will acquire knowledge 
+👋 Hi, I'm Debasis Ghosh 
 
-<!---
-debdevops/debdevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Building secure, scalable cloud-native platforms in FinTech 
+🧠 Exploring Generative AI, Retrieval-Augmented Generation (RAG)  
+☁️ Architected microservices-based solutions on Azure with Service Fabric, CDN, DevOps pipelines  
+📊 Passionate about security (OWASP), and AI-enhanced development
+
+🚀 Currently learning, building, and sharing:  
+- AI + RAG-based Chatbot for Financial Insights  
+- Azure-based distributed data pipelines (CosmosDB + Functions + OpenAI + AI Search)
+
+📌 I enjoy contributing to scalable solutions and collaborating on technical strategy and innovation.
